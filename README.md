@@ -32,7 +32,7 @@ One one such dimension, I have further augmented the system for some additional 
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Ajay Vikram Singh | A0020986B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0020986B@nus.edu.sg |
+| Ajay Vikram Singh | A0020986B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0384189@u.nus.edu;ajayvsingh@gmail.com |
 
 
 
