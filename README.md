@@ -38,7 +38,7 @@ One one such dimension, I have further augmented the system for some additional 
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : https://github.com/AvS78/IRS_MR_2019_01_19_IS1PT_IND/blob/master/IRS-MR-2019-01-19-IS1-IND-AjaySingh-MortgageMachineReasoning%20-%20enhancement%20report.pdf
 
 **Recommended Sections for Project Report / Paper:**
 EXECUTIVE SUMMARY	3
